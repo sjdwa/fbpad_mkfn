@@ -143,4 +143,25 @@ static int chars[][2] = {
 	{0xfe70, 0xfeff},	/* Arabic Presentation Forms-B */
 	{0xff00, 0xffef},	/* Halfwidth and Fullwidth Forms */
 	{0xfff0, 0xffff},	/* Specials */
+    /* Nerdfonts added */
+    {0xe5fa, 0xe62b},   /* Seti-UI + Custom */
+    {0xe700, 0xe7c5},   /* Devicons */
+    {0xf000, 0xf2e0},   /* Font Awesome */
+    {0xe200, 0xe2a9},   /* Font Awesome Extension */
+    {0xf500, 0xfd46},   /* Material Design icons */
+    {0xe300, 0xe3eb},   /* Weather*/
+    {0xf400, 0xf4a8},   /* Octicons */
+    {0x2665, 0x2666},   /* Octicons */
+    {0x26A1, 0x26A2},   /* Octicons */
+    {0xf27c, 0xf27d},   /* Octicons */
+    {0xe0a0, 0xe0d4},   /* Powerline Symbols */
+    {0xe0a3, 0xe0a4},   /* Powerline Extra Symbols */
+    {0xe0b4, 0xe0c8},   /* Powerline Extra Symbols */
+    {0xe0ca, 0xe0cb},   /* Powerline Extra Symbols */
+    {0xe0cc, 0xe0d2},   /* Powerline Extra Symbols */
+    {0xe0d4, 0xe0d5},   /* Powerline Extra Symbols */
+    {0x23fb, 0x23fe},   /* IEC Power Symbols */
+    {0x2b58, 0x2b59},   /* IEC Power Symbols */
+    {0xf300, 0xf313},   /* Font Logos (Formerly Font Linux) */
+    {0xe000, 0xe00d},   /* Pomicons */
 };
